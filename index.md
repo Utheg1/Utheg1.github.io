@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Jimmy Nguyen and I am a student at [Cal State Fullerton]/(https://my.fullerton.edu/) and my major is .
+This is my home page! My name is Jimmy Nguyen and I am a student at [Cal State Fullerton]/(https://my.fullerton.edu/) and my major is Computer Engineering .
 
 ## Computer Science Projects
 
